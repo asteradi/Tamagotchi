@@ -1,0 +1,7 @@
+C:\Users\aditya.gupta\source\repos\Tamagotchi\Tamagotchi\bin\Debug\Tamagotchi.exe.config
+C:\Users\aditya.gupta\source\repos\Tamagotchi\Tamagotchi\bin\Debug\Tamagotchi.exe
+C:\Users\aditya.gupta\source\repos\Tamagotchi\Tamagotchi\bin\Debug\Tamagotchi.pdb
+C:\Users\aditya.gupta\source\repos\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.csprojAssemblyReference.cache
+C:\Users\aditya.gupta\source\repos\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.csproj.CoreCompileInputs.cache
+C:\Users\aditya.gupta\source\repos\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.exe
+C:\Users\aditya.gupta\source\repos\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.pdb
